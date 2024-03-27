@@ -1,10 +1,10 @@
 ### Hello! 👋
 
 I am a MSc Statistics candidate at ETH Zurich with an undergrad in Economics/Finance from the University of St.Gallen.
-I am passionate about machine learning applications for prediction making and more recently: Reinforcement Learning. The latter I have collected experience in during my internship at BKW (Energy) in Asset Optimisation and Operations Research for flexible powerplants.
+I am passionate about machine learning applications and quantitative methods for decision making in a business context. In my role as Junior Operations Research Analyst at BKW (Energy) I am gaining experience in Asset Optimisation and Operations Research.
 
-I have previous experience in **Python** (`pandas`, `PyTorch`, `sklearn`, `Stable-Baselines3`, `RayTune`, `RLlib`...), **R** (`Base`,`Tidyverse`, `Tidymodels`...), **VBA** and **SQL**. You can find some of my projects on machine learning and data visualisation [on my personal website](https://mathiassteilen.github.io/), as well as in my [52 weeks of Python and R in 2023 challenge repo](https://github.com/MathiasSteilen/52-Weeks-of-Python-and-R-2023).
+I have previous experience in **Python** (`pandas`, `polars`, `PyTorch`, `sklearn`, `Stable-Baselines3`, `RayTune`, `RLlib`...), **R** (`Base`,`Tidyverse`, `Tidymodels`...), **VBA** and **SQL**. You can find some of my projects on machine learning and data visualisation [on my personal website](https://mathiassteilen.github.io/), as well as in the GitHub highlights right below this text.
 
-Feel free to connect and reach out, I am always on the look-out for interesting ideas and projects!
+Feel free to connect and reach out, I am always working on and looking for interesting projects and inspirations!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathias-steilen/)
